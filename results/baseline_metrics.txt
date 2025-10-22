@@ -1,0 +1,13 @@
+=== Summary Metrics (baseline) ===
+ROC-AUC: 0.761
+PR-AUC : 0.685
+Accuracy: 0.708
+
+              precision    recall  f1-score   support
+
+     No CATH       0.75      0.72      0.73       532
+        CATH       0.66      0.69      0.68       417
+
+    accuracy                           0.71       949
+   macro avg       0.70      0.71      0.71       949
+weighted avg       0.71      0.71      0.71       949
