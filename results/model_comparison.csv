@@ -1,0 +1,5 @@
+Model,ROC-AUC,Accuracy,CATH Recall,CATH Precision
+TF-IDF (Dummy),0.704,0.696,0.52,0.368
+Baseline (No KG),0.711,0.718,0.382,0.368
+Simple KG (ECG only),0.676,0.729,0.284,0.358
+Enhanced KG (TF-IDF),0.721,0.751,0.461,0.439

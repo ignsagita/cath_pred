@@ -1,13 +1,15 @@
 === TF-IDF Baseline Results ===
-ROC-AUC: 0.797
-PR-AUC: 0.712
-Accuracy: 0.748
+ROC-AUC: 0.704
+PR-AUC: 0.348
+Accuracy: 0.696
 
               precision    recall  f1-score   support
 
-     No CATH       0.79      0.75      0.77       532
-        CATH       0.70      0.74      0.72       417
+     No CATH       0.85      0.75      0.79       359
+        CATH       0.37      0.52      0.43       102
 
-    accuracy                           0.75       949
-   macro avg       0.75      0.75      0.75       949
-weighted avg       0.75      0.75      0.75       949
+    accuracy                           0.70       461
+   macro avg       0.61      0.63      0.61       461
+weighted avg       0.74      0.70      0.71       461
+[[268  91]
+ [ 49  53]]
