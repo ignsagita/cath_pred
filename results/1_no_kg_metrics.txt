@@ -1,4 +1,4 @@
-=== Summary Metrics (baseline_no_kg) ===
+=== Summary Metrics (1_no_kg) ===
 ROC-AUC: 0.711
 PR-AUC : 0.364
 Accuracy: 0.718

@@ -4,7 +4,7 @@ ___ w/ PMH of CAD s/p PCI x3, s/p off-pump CABG x3 ___
 (___-->LAD, SVG -->diag, OM), type 2 DM on insulin, HTN, 
 hyperlipidemia presents with a 3 day history of ___ sharp, 
 left-sided chest pain an..."
-23822395,0,50,"['direct_procedure', 'post_cath_meds']",":
+23822395,0,56,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ is a ___ yo female with a past medical history of 
 CAD with a 1 vessel CABG (SVG to LAD) in ___ who presents with 
 chest pressure.  She woke up at 8 am with substernal chest 
@@ -144,7 +144,7 @@ ___ with a complex medical hx including HTN, CHF, DM on insulin,
 ESRD (s/p AVF placement and now revision 2 weeks ago), s/p 
 severe Fournier's gangrene requiring an extended MICU stay and a 
 divert..."
-26713233,0,168,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+26713233,0,174,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 ___ h/o CAD s/p coronary angiogram ___ (in ___, no 
 intervention), coronary angiogram ___ that revealed 60%mid 
 LAD stenosis and 80% distal LAD stenosis, admitted to CCU after 
@@ -154,7 +154,7 @@ ___ male with a history of A. fib status post ablation,
 HLD, and HTN presenting with chest pain. Sudden onset of 
 substernal chest pain while walking down stairs which radiated 
 to the back around ..."
-27092999,1,58,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+27092999,1,64,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
   
 HISTORY OF PRESENTING ILLNESS: Mr. ___ is a ___ year old M 
 w/ h/o pancreatic CA s/p sphincterotomy ___ and chemotherapy 
@@ -226,7 +226,7 @@ ___ male history of prior MI (___) and h/o
 esophagectomy for ?esophageal CA (not confirmed on path) 
 presents with midline chest squeezing and pressure with 
 diaphoresis and nausea since ___ AM yes..."
-27497725,1,40,['direct_procedure'],":
+27497725,1,46,"['direct_procedure', 'cath_results']",":
 Mr. ___ is a ___ year old man with a history of coronary artery 
 disease, end stage renal disease, hyperlipidemia, hypertension, 
 and prior inferior myocardial infarction. He presented to his 
@@ -366,7 +366,7 @@ ___ is a ___ h/o MVR s/p repair on Coumadin, 2 vessel
 CABG ___ (___), CHF, COPD, IDDM,presented to ___ with 
 2 days of SOB and developed chest pain during admission. ECG 
 showed STEs in AVR and V1 ..."
-24389378,1,104,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
+24389378,1,116,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 ___ man with CAD s/p LAD PCI, right SFA/peroneal bypass 
 and angioplasty, asymptomatic right subclavian and carotid 
 disease,  
@@ -389,7 +389,7 @@ Mr. ___ is a ___ y/o man with hx of CAD (RCA stent ___ years
 ago), aortic stenosis ___ 0.7cm2), and COPD who presented to 
 ___ on ___ with sudden severe SOB that awoke him from sleep. In 
 the ___ d..."
-29835662,1,60,"['direct_procedure', 'post_cath_meds']",":
+29835662,1,66,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ y/oF with type 2 DM, ___ transferred to the CCU following 
 NSTEMI c/b  dissection of OM2 during attempted angioplasty.
 
@@ -410,7 +410,7 @@ ___ M PMHx HTN, HLD, non-ischemic cardiomyopathy, who presented
 to ___ ___ in the setting of worsening SOB, as well as 
 intermittent LSCP, found to have labs remarkable save for an 
 elevated BNP (3..."
-28941482,0,20,['direct_procedure'],":
+28941482,0,26,"['direct_procedure', 'cath_results']",":
 ___ year old Caucasian female with PMH significant for right calf 
 DVT, bilateral knee replacement, OSA, and childhood asthma who 
 presents for planned TAVR.  
@@ -438,7 +438,7 @@ ___ for STEMI.
 
 This morning she was undergoing rotator cuff surgery at ___ 
 ___. ..."
-24147094,0,45,"['direct_procedure', 'post_cath_meds']",":
+24147094,0,51,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ y.o. male with HTN, gout, and ___, who on ___ 
 developed sudden onset left chest/shoulder pain while at home 
 cooking dinner with his wife. The pain was associated with 
@@ -654,7 +654,7 @@ ___ man presenting with with 3 weeks of intermittent
 chest pain gradually worsening associated with dyspnea both at 
 rest and exertion with an episode today lasting 1.5 hours 
 prompting presentatio..."
-29961953,1,87,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath']",":
+29961953,1,93,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath', 'cath_results']",":
 Ms. ___ is a ___ with a PMH s/f HTN, DM, chronic heart 
 failure who was brought to the ___ this morning 
 by her daughter after ""not looking right"". She reports her mothe 
@@ -1032,17 +1032,17 @@ ___ with hx of IDDM, HTN, CAD s/p 3 stents (unknown location in
 ___, CHF who presents as transfer from ___ with 
 NSTEMI. Patient states that she has had several episodes of CP 
 over the past severa..."
-25249616,1,60,['direct_procedure'],":
+25249616,1,66,"['direct_procedure', 'cath_results']",":
 ___ year old woman with hypertension and mild to moderate AS 
 (confirmed by echo ___ who went to see her outside 
 physician complaining of shortness of breath, referred to ___ 
 for cath and diuresis..."
-28985445,1,53,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+28985445,1,59,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 ___ year female with h/o DMT2, OSA, Asthma, and Dyslipidemia 
 presents from OSH for ASA desensitization before PCI. Patient 
 has had 6 month history of Left Chest Pain/Pressure that lasts 
 for a cou..."
-22362967,0,82,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath']",":
+22362967,0,88,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath', 'cath_results']",":
 ___ y/o M with PMH of COPD, HTN and recent admission ___ to 
 ___ with chest pressure (negative stress test) who 
 presents after ___ days of recurrent intermittent chest 
@@ -1134,7 +1134,7 @@ ___, ___ only, with CAD s/p LAD stenting in ___,
 mild left ventricular dysfunction, mitral regurgitation, 
 tricuspid regurgitation, history of GI bleed, recent PNA 
 presents with a brief episode of..."
-21048527,1,40,"['direct_procedure', 'post_cath_meds']",":
+21048527,1,46,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 HISTORY OF PRESENTING ILLNESS: This is a ___ year old male with a 
 history of DM, tobacco use, paroxysmal SVT, and HLD who 
 presented to ___ with chest/back pain. He was found to have 
@@ -1326,7 +1326,7 @@ ___ y/o F with PMHx significant for CAD s/p BMS in ___ and CABG
 (LIMA-LAD, SVG-OM, SVG-RPDA) in ___ who initially 
 presented to the ED with what she described at bilateral kidney 
 pains for the pas..."
-23970855,0,53,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+23970855,0,59,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 ___ with PMH CAD s/p PCI (___) and CABG (___), HTN, HLD, 
 poorly controlled DMII, CKD III, asthma, stress incontinence, 
 GERD, depression, anxiety, with frequent ED visits for chest 
@@ -1341,7 +1341,7 @@ Mr. ___ is a ___ M with a h/o CHF (EF>50%, MR), AF being
 bridged with enoxaparin, CAD s/p NSTEMI ___, no PCI), 
 pulmonary HTN (unclear etiology), HTN, T2DM, schizophrenia, 
 ___ disease, and lymphom..."
-29179926,1,45,"['direct_procedure', 'post_cath_meds']",":
+29179926,1,51,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ y/o with CAD s/p CABG (___), ESRD on HD, AAA s/p repair, DM 
 presenting with chest pain.  Patient reports at baseline he had 
 chest pain with exertion that is relieved by rest (ie. mowing 
@@ -1361,7 +1361,7 @@ Patient is ___ y.o. man w/ pmh of Hypertension, hyperlipidemia,
 presenting with chest pain that started at 6:30pm yesterday 
 evening while he was doing work in his office. The pain felt 
 like press..."
-29044283,0,30,"['direct_procedure', 'post_cath_meds']",":
+29044283,0,36,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ y/o woman with h/o severe aortic stenosis (valve area 0.6), 
 h/o inferior STEMI in ___ medically managed, ischemic 
 cardiomyopathy (EF 40%), hypertension, and hyperlipidemia who 
@@ -1457,7 +1457,7 @@ ___ with HTN, HL, obesity presented to his PCP after waking with
 chest pressure this morning. Was in his usual state of health 
 until the past 2 weeks, when he started to have the sensation of 
 his..."
-27595560,1,54,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
+27595560,1,60,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 ___ y/o male with PMH of ESRD s/p kidney transplant (live, 
 unrelated donor - wife), ___, HTN, HLD, PVD who presented to 
 the ED from clinic with chest pain and SOB. The chest pain with 
@@ -1707,7 +1707,7 @@ Mrs. ___ is a ___ year old woman with a history of atrial
 fibrillation, mitral regurgitation and cardiomyopathy. She has 
 been admitted several times over the past ___ months for acute 
 on chronic ..."
-25877138,0,77,"['direct_procedure', 'transfer_for_cath']",":
+25877138,0,83,"['direct_procedure', 'transfer_for_cath', 'cath_results']",":
 ___ yo male transferred from ___ with chest pain and 
 concern for STEMI, found to have depressed EF but no 
 intervenable acute coronary dz, transferred to CCU from cath lab 
@@ -1863,12 +1863,12 @@ Pt is a ___ yo F w/ PMH CAD s/p MI w/ 2 stents and angioplasty in
 ___, DMII (last HbA1C 7.2 in ___, dyslipidemia, and CVA ___ 
 p/w chest pain that began in the middle of last week. The pt 
 reports ..."
-24521409,0,40,['direct_procedure'],":
+24521409,0,46,"['direct_procedure', 'cath_results']",":
 Mr. ___ is a ___ with h/o CAD c/b NSTEMI s/p CABG 
 (LIMA->LAD, SVG->Diag, SVG->OM, SVG->PLV) in ___, s/dHF (LVEF 
 40-45% in ___, known LBBB, and HTN/HL who is transferred from 
 an OSH for cardiac ca..."
-26638278,0,42,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath']",":
+26638278,0,48,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath', 'cath_results']",":
 Ms. ___ is a ___ year old woman with a history of diabetes 
 ___, end-stage renal disease on hemodialysis, 
 hyperlipidemia, and hypertension. She presented to ___ 
@@ -1919,7 +1919,7 @@ juxtarenal AAA s/p endovascular repair ___, LBBB, and prior
 tobacco use who presented to ___ with sudden onset SOB 
 this afternoon.  
  Pa..."
-23206500,0,20,['direct_procedure'],":
+23206500,0,26,"['direct_procedure', 'cath_results']",":
 Patient is a ___ yo female with hx of DM and HLD who presented 
 with chest pain. Severe substernal burning chest pain with 
 radiation to right shoulder, last night from 1a-4a. Also 
@@ -1964,7 +1964,7 @@ ___ yo F with hx of CAD with inferior STEMI ___ s/p
 catheterization showing 3VD with RCA 100% occluded (culprit 
 lesion) with DES placed to RCA. Subsequent outpatient stress 
 echocardiogram reveale..."
-27369686,1,56,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
+27369686,1,62,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ year old male with CAD s/p DES to the RCA in ___, COPD,
 moderate AS presenting with NSTEMI as a transfer outside
 hospital.
@@ -1977,7 +1977,7 @@ in
 ___ which showed severe LAD, HTN, dyslipidemia, moderate to
 severe aortic stenosis and DLBCL in remission. The patient
 presented for..."
-22264877,1,60,"['direct_procedure', 'post_cath_meds']",":
+22264877,1,66,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 Patient states that yesterday he was mowing his lawn when he 
 developed sharp substernal chest pain and pressure. He stopped 
 working sat down and had resolution of his pain within 15 
@@ -1997,7 +1997,7 @@ Ms. ___ is a ___ with a history of hypertension,
 hyperlipidemia, and anxiety who presents with an episode of 
 ""racing heart."" Perhaps due to her underlying anxiety issues, 
 she has difficulty provi..."
-23460628,0,60,['direct_procedure'],":
+23460628,0,72,"['direct_procedure', 'cath_results']",":
 ___ year old gentleman with a known history of CAD s/p LAD 
 stenting and ultimately single vessel CABG/AVR in ___ who 
 presented with recurrent chest pain/dyspnea with exertion as 
@@ -2076,7 +2076,7 @@ Mrs. ___ is a ___ year old woman with a history of coronary
 artery disease status post drug eluting stent, hyperlipidemis 
 and hypertension. Over the past ___ years, she has noted 
 stable exertiona..."
-26999828,1,112,"['direct_procedure', 'procedural_details', 'cath_results']",":
+26999828,1,118,"['direct_procedure', 'procedural_details', 'cath_results']",":
 This is a ___ year-old female with a history of hypertension, 
 diabetes, hyperlipidemia and CAD who presented to OSH for 
 evaluation of Shortness of breath and abnormal stress test. Of 
@@ -2101,7 +2101,7 @@ Mr ___ is a ___ with cardiomyopathy (EF 15%), Hx of HTN,
 alcoholism and heavy smoking who recently was admitted CP, 
 positive CE and RBBB of unknown age, who underwent ECHO and cath 
 ___ showing LA..."
-24057432,1,75,"['direct_procedure', 'post_cath_meds']",":
+24057432,1,81,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ w/ h/o HTN, DM2, and AAA s/p complicated repair w/ 
 axillofemoral bypass (___), who presented to the ED with 1h of 
 substernal chest pain. EKG showed ST elevations in V1-V3, with 
@@ -2142,7 +2142,7 @@ Mr. ___ is a ___ y/o M with ESRD (not currently on
 dialysis), DM, HTN and cirrhosis who presented to ___ 
 ___ with swelling of his right face on ___. He reports 
 this resolved after the medications..."
-29036428,0,40,"['direct_procedure', 'post_cath_meds']",":
+29036428,0,46,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 Mr. ___ is an ___ year old man with history of CAD s/p 
 CABGx3 ___ yrs ago, recently admitted for NSTEMI ___ with 
 medical management, presenting now with onset of numbness in 
@@ -2184,7 +2184,7 @@ Ms. ___ is a ___ woman with a history of CAD s/p
 recent NSTEMI with cardiac cath on ___ and placement of two 
 DES to LAD, HTN, DM2, HLD who presents with chest pain in the 
 setting of not receiving..."
-23419047,1,30,['direct_procedure'],":
+23419047,1,36,"['direct_procedure', 'cath_results']",":
 ___ year old man with chronic occult GI bleed resulting in 
 transfusion dependent anemia, ischemic cardiomyopathy with LVEF 
 of 25%, severe aortic stenosis with valve area of 0.8-1.0 who 
@@ -2203,7 +2203,7 @@ an OSH for further evaluation of chest pain and concern for
 STEMI.  
 .  
 Pat..."
-21682469,1,90,"['direct_procedure', 'post_cath_meds']",":
+21682469,1,96,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 History is limited as the patient is intubated and sedated but 
 was obtained through thorough chart review. Ms. ___ is an 
 ___ year old woman with no past medical history who presented to 
@@ -2229,7 +2229,7 @@ ___ yo woman with history of severe aortic stenosis (valve area
 ___ for heart failure exacerbation.
 
 Procedure:  ___ Study ___ trans..."
-23003394,1,20,['direct_procedure'],":
+23003394,1,26,"['direct_procedure', 'cath_results']",":
 ___ yo female with a history of hypertension, rheumatoid 
 arthritis, history of pituitary tumor s/p resection who had a 
 syncopal episode prior to admission to OSH. Two days prior to 
@@ -2468,7 +2468,7 @@ This is a ___ with a history of CAD S/P LAD stent at ___ in
 ___, hypertension, and CAD presenting with sudden onset chest 
 pressure at 0230 radiating down his left arm. He states that he 
 has been ..."
-23101530,0,75,"['direct_procedure', 'post_cath_meds']",":
+23101530,0,81,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ year old male with PMHx of gout, impaired fasting glucose who 
 p/w 4 days of substernal chest discomfort. 
 
@@ -2590,7 +2590,7 @@ Mrs. ___ is a ___ with multiple medical problems including
 poorly controlled diabetes (resistant to starting insulin), HTN, 
 hyperlipidemia, atypical chest pain who presetns with dyspnea on 
 exerti..."
-28080555,1,43,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+28080555,1,49,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 ___ w/ h/o HLD, psoriatic arthritis presented to OSH w/ CP, 
 found to have inferoposterior STEMI. He was cleaning the house 
 and suddenly felt a severe headache, with chest pressure and 
@@ -2617,7 +2617,7 @@ dyspnea and abdominal pain now being transferred for coronary
 angiography.  
 
 Per pa..."
-22779517,0,16,"['direct_procedure', 'cath_results']",":
+22779517,0,22,"['direct_procedure', 'cath_results']",":
 ___ year old male with history of Hypertension, Hyperlipidemia, 
 and known 3 vessel CAD who presents with chest pain. Patient 
 states that on ___ he was in ___ visiting his brother when 
@@ -2900,7 +2900,7 @@ Mr. ___ is a ___ yo gentleman who
 recently emigrated from ___. He has a history
 of exertional angina which has gotten more severe in nature and
 more frequent in occurrence. He describes it as pain i..."
-29018771,0,20,['direct_procedure'],":
+29018771,0,26,"['direct_procedure', 'cath_results']",":
 Mr. ___ is a very pleasant ___ year old man with a complex 
 past
 medical history including diabetes mellitus type I diagnosed at
@@ -2956,7 +2956,7 @@ ___ yo male with h/o cardiac PCI in ___ to distal RCA into the
 RPDA (DES), IDDM, HTN, HLD who presents with chest pressure. He 
 has had several months of on and off chest pain described as 
 ""tightn..."
-22052120,1,61,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
+22052120,1,67,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ male with HTN, CAD s/p angioplasty ___, ___ stent 
 ___, ___ ___, who presents with ___ hours of chest pain. 
 He was still awake at 3am this morning, felt some mild 
@@ -2971,7 +2971,7 @@ ___ year old man with history of CAD s/p angioplasty ___, stent
 ___ ___, ___ ___, HTN, HLD, h/o GI bleed (subsequent
 discontinuation of plavix), diverticulosis, who flew in from
 ___ to go to ER for ..."
-29169748,1,55,"['direct_procedure', 'post_cath_meds']",":
+29169748,1,61,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 Patient is a ___ year-old male with a past medical history of CVA 
 at age ___, ""vascular ___ hypertension, hyperlipidemia, 
 tobacco abuse, who presented to ___ earlier today 
@@ -2991,7 +2991,7 @@ ___ F with h/o CAD s/p PCI in ___ with DESx2 to RCA ___ from
 ___ for cp that started while pt was walking on 
 treadmill at home. Patient was seen at the ___ in ___ of this 
 year for a positive nucl..."
-26621914,1,92,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath']",":
+26621914,1,98,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath', 'cath_results']",":
 Mr. ___ is ___ with h/o HTN, prostate cancer, viral 
 pericarditis in his ___, who is being transferred from ___ 
 ___ for left heart cath. The patient reports that he awoke at 
@@ -3012,7 +3012,7 @@ hypothyroidism who presents with chest pain.
 
 Patient reports acute onset of substernal chest pain waking him 
 from sleep at 2 AM the..."
-21329675,1,95,"['direct_procedure', 'procedural_details', 'transfer_for_cath']",":
+21329675,1,101,"['direct_procedure', 'procedural_details', 'transfer_for_cath', 'cath_results']",":
 Mr. ___ is a ___ w/hx of CAD s/p CABG ___ w/ SVG-LAD and hx 
 of 90% stenosis in svg-LAD PTCA and stent w/ TAXUS stent 
 presenting with SOB & ___ transferred from ___ 
@@ -3107,7 +3107,7 @@ ___ year old female with a h/o CAD and PCI in ___ also PVD
 sent by Dr. ___ cath with the indication of unstable angina. 
 The patient was recently discharged from ___ after a left 
 fem-AT bypass wit..."
-25806722,0,40,"['direct_procedure', 'post_cath_meds']",":
+25806722,0,46,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ y.o. with diabetes CAD s/p 3-vessel CABG in ___ and BMS x 2 
 to ___ in ___, and HFpEF (EF 50-55% in ___, s/p NSTEMI type 
 II ___ with cath at that time demonstrating worsening of left 
@@ -3157,7 +3157,7 @@ The patient is a ___ year old male with a history of CAD s/p CABG
 in ___ with SVG->RCA and sequential SVG->D1->LAD(distal) 
 grafts, known occluded SVG->RCA graft, mild aortic 
 regurgitation, hypert..."
-28629856,1,58,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+28629856,1,64,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 ___ ___ speaking with PMHx of CAD, HTN, HLD, GERD, 
 depression who presented to ___ on ___ with chest pain.
 
@@ -3173,7 +3173,7 @@ ___ y.o male with history of hypertension, hyperlipidemia and
 bicuspid aortic valve who presents to the hospital after having 
 had ST segments found on an ECG at his primary care doctor's 
 office. ..."
-28629168,1,70,['direct_procedure'],":
+28629168,1,76,"['direct_procedure', 'cath_results']",":
 ___ yo M with hx of CAD with recent DES to OMB on ___, ESRD s/p 
 LRRT in ___, hypertension, PMR, and IBD, who was 
 recently admitted for exertional dypsnea last week and is now 
@@ -3222,7 +3222,7 @@ pain.
 He reports that this morning at 11AM he was shoveling snow for 
 15 minutes and began having non-radiating substernal chest pain 
 ..."
-27261448,1,158,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+27261448,1,170,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 ___ with h/o HTN was transferred from ___ for 
 CABG evaluation after cardiac cath showed 95% LM disease and 99% 
 LAD stenosis with the cath procedure complicated by VT ___ s/p 
@@ -3247,7 +3247,7 @@ Ms. ___ is an ___ with a h/o severe AS, Afib on coumadin,
 HTN, HLD who was transferred from OSH with acute pulmonary edema 
 requiring intubation and hypotension requiring pressors.  
 Patient is una..."
-23735511,0,35,"['direct_procedure', 'post_cath_meds']",":
+23735511,0,41,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ ___ male with no significant past medical 
 history presented to a ___ clinic with the chief compliant 
 of feeling tired with associated chest pain for ___ days with 
@@ -3268,7 +3268,7 @@ ___ y.o man with history of MI ___ years ago (treated
 conservatively) who presented to ___ with chest pain 
 at 11am.  The patient states that he was walking in his yard 
 this morning and felt light..."
-22752888,0,103,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'transfer_for_cath']",":
+22752888,0,115,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'transfer_for_cath', 'cath_results']",":
 Mr. ___ is a ___ M w/ pmhx of HLD, GERD, and BPH 
 presenting with chest pain to ___ and ___ to have e/o 
 STEMI, subsequently transferred to ___ for catheterization.  
@@ -3363,7 +3363,7 @@ Pt is a ___ y/o F w PMH sig for DDD pacemaker placement for
 ___ Type II block in ___, who originally presented to OSH 
 s/p v-fib arrest, and is now transferred to ___ for cardiac 
 catheterization a..."
-26427809,1,93,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+26427809,1,99,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 Ms. ___ is a ___ F w/hx of CAD s/p PCI to ___ in ___, 
 HTN, and HLD presenting for cardiac catheterization.
 
@@ -3414,7 +3414,7 @@ ___ yo male wiht h/o CABG in ___, ___ ___, s/p stenting ___
 (unknown anatomy, getting records from the ___, smoking, 
 HTN, HLD, and diabetes who is presenting with chest discomfort.  
 The patient r..."
-29966688,0,36,"['direct_procedure', 'procedural_details']",":
+29966688,0,42,"['direct_procedure', 'procedural_details', 'cath_results']",":
 The patient is a ___ male with a history of coronary artery 
 disease s/p CABG ___ at ___ SVG to OM, SVG to RCA-RPL), PCI 
 ___ (NSTEMI with DES of SVG to OM) as well as 
@@ -3492,7 +3492,7 @@ Mr. ___ is a ___ yo M with CAD s/p CABG, DES to SVG, h/o
 CHF w/resolution of systolic dysfunction on repeat ECHO, 
 recently seen reversible defect on ETT-MIBI at low workload who 
 p/w CP at rest la..."
-24858208,1,97,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath']",":
+24858208,1,103,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath', 'cath_results']",":
 HISTORY OF PRESENTING ILLNESS:  
 Ms. ___ is a ___ without medical history who presents to 
 ___ with complaint of chest pain, transferred to ___ for 
@@ -3584,7 +3584,7 @@ HISTORY OF PRESENTING ILLNESS:
 ___ y/o with h/o BPH and peptic ulcer disease, s/p Right hip 
 replacement ___ s/p fracture who presents from ___ 
 for hypotension and EKG changes. Pt was working wit..."
-28055695,1,45,"['direct_procedure', 'post_cath_meds']",":
+28055695,1,51,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ M with CAD s/p stent to LAD ___ C presenting for 
 abrupt onset of severe chest pain x5 days.  Patient reports he 
 was lying down 5 days PTA (___) when he developed abrupt 
@@ -3798,7 +3798,7 @@ The patient describes progressive dyspnea on exertion since
 ___. On approximately ___ the patient awoke with 
 severe respiratory distress. He went to ___ where he 
 was noted to be diaphoretic, tach..."
-22606922,1,56,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
+22606922,1,62,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 Mr. ___ is a ___ gentleman with h/o 2 vessel CAD s/p DES 
 to LAD in ___, ESRD on HD, and DM who presented to ___ 
 ___ after he awoke with acute shortness of breath.  As 
@@ -3875,7 +3875,7 @@ ___ h/o ESRD s/p ECD transplantation ___ longstanding
 diabetes currently on R72 research protocol-monthly belatacept 
 infusion and MMF/prednisone, CAD s/p CABG ___ ___ w NSTEMI 
 ___, hypothyroidism..."
-25960440,1,36,"['direct_procedure', 'procedural_details']",":
+25960440,1,42,"['direct_procedure', 'procedural_details', 'cath_results']",":
 This is a ___ year old woman with history of diabetes, 
 hypertension, and multiple TIAs who began having orthopnea and 
 PND while sleeping 2 nights ago. The patient woke up with PND 
@@ -3885,7 +3885,7 @@ Ms. ___ is a ___ w/ CAD s/p DES to LAD in ___, DM2, HTN,
 HL, afib on coumadin who presented to ___ 
 with back pain, found to have new LBBB, and transferred to ___ 
 for emergent cardiac cath.  Per O..."
-26718428,0,10,['direct_procedure'],":
+26718428,0,16,"['direct_procedure', 'cath_results']",":
 Ms. ___ is an ___ year old woman with history of aortic 
 stenosis followed with serial echocardiograms. She has had 
 progressively worsening symptoms of
@@ -3956,7 +3956,7 @@ sleep apnea presents from his nursing home with progressive
 dyspnea and hypoxia over an unclear time frame. 
 
 Mr. ___ has a history of recurr..."
-25087116,1,70,['direct_procedure'],":
+25087116,1,76,"['direct_procedure', 'cath_results']",":
 ___ with only pMHx of HTN and gout, admitted to an OSH on 
 ___ complaining of 1-month history of exertional chest pain 
 consistent with angina.  This pain was crushing, felt in the 
@@ -3997,7 +3997,7 @@ Pt is a ___ yo female with past history of CAD (posterior MI
 approx ___ years ago - per cardiologist - coronary vasospasm) who 
 presents with chest pain. She states that she was in her usual 
 state..."
-28462192,1,108,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+28462192,1,114,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 Ms. ___ is a ___ year old woman with past medical history 
 significant for hyperlipidemia and smoking who complained of 
 chest pain, severe nausea and diaphoresis about 5 minutes after 
@@ -4058,7 +4058,7 @@ recurrent
 pneumonia, HFpEF ___ LVEF 65%) with diuretic noncompliance,
 asthma, ulcerative colitis (on mesalamine, entyvio), prior
 provoked PE ..."
-27727924,1,36,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+27727924,1,42,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 Ms. ___ is a ___ year old woman who presented to ___ on ___ 
 following syncopal episode with LOC with head strike. Patient 
 reports getting up to go the bathroom then awakened on the 
@@ -4270,7 +4270,7 @@ Mr. ___ is a ___ year old male with a history of Alport's
 syndrome s/p failing renal transplant in ___ who presents with 
 three days of left sided chest pain. The patient says that he 
 was in his u..."
-27163470,0,50,['direct_procedure'],":
+27163470,0,56,"['direct_procedure', 'cath_results']",":
 Ms. ___ is a ___ female with PMHx significant for CAD 
 last cardiac catheterization with 3VD, HTN, HLD, DM, presenting 
 with chest pain and dyspnea on exertion. The day prior to 
@@ -4280,7 +4280,7 @@ Mr. ___ is an active ___ year old man with HLD who was riting his
 bicycle 50 miles on ___ when he stopped and noted severe chest 
 pain, diaphoresis, and dizziness.  He rested without 
 improvement. ..."
-22470828,1,70,['direct_procedure'],":
+22470828,1,76,"['direct_procedure', 'cath_results']",":
 This is a ___ year-old caucasian male no significant PMH who 
 presents from OSH after he presented there complaining of rash, 
 fever and chest pain. Pt was in his usual state of health unitl 
@@ -4311,7 +4311,7 @@ ___ with diabetes, HTN, HL p/w chest pain.
 In the ED, initial vitals were 97.8 91 169/86 18 98% RA.  He 
 subsequently underwent VF arrest and was defibrillated without 
 intubation, received an IO..."
-27428105,1,47,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath']",":
+27428105,1,53,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath', 'cath_results']",":
 ___ year old man with GERD, HTN, no known CAD, presented to 
 ___ this am with several hours of retrosternal chest 
 pressure similar but more severe than prior episodes of GERD. 
@@ -4337,7 +4337,7 @@ This is a ___ year old Caucasian female with a past medical
 history of hypertension, hyperlipidemia, DM2, and recent 
 inferior ___ s/p BMS to ___ on ___, who was admitted with 
 lower extremity edem..."
-29793521,1,60,['direct_procedure'],":
+29793521,1,66,"['direct_procedure', 'cath_results']",":
 Patient is a ___ with a history of HTN, moderate AS, severe 
 COPD on home O2, who presents for cardiac cath. He initially 
 presented to OSH (___) in ___ with SOB. She was 
@@ -4475,7 +4475,7 @@ ___ year old female with no significant PMH who has not seen a
 PCP in over ___ years transferred from ___ for cardiac 
 catheterization. Patient was in her OSOH until ___ when she 
 fractured her lef..."
-23681309,1,58,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+23681309,1,64,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 Mr. ___ is a ___ year old man with history of HTN, 
 hyperlipidemia, ?DM, atrial fibrillation (on coumadin), atrial 
 thrombus who presented to his PCP's office today with 
@@ -4495,7 +4495,7 @@ ___ year old female with hx of HTN, HLD, hypothyroidism presents
 with inferior STEMI.  Patient describes vague symptoms which 
 began late this morning after having a massage-reports neck 
 pain, che..."
-22836798,1,67,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath']",":
+22836798,1,73,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath', 'cath_results']",":
  This is an ___ year old ___ speaking male nursing home 
 resident with a PMH significant for HTN, and DM who presented 
 with symptoms of dyspnea and abdominal pain radiating to the 
@@ -4646,7 +4646,7 @@ Mr. ___ is a ___ year-old man with morbid obesity, IDDM, atrial
 fibrillation on coumadin, heart failure with presrved EF, OSA, 
 COPD, CAD s/p CABG ___, cath in ___ with BMS LCx, ___ 
 revealing a se..."
-25523469,0,116,"['direct_procedure', 'procedural_details']",":
+25523469,0,122,"['direct_procedure', 'procedural_details', 'cath_results']",":
 Mr. ___ is an ___ year-old gentleman with CAD s/p CABG ___
 (LIMA to LAD, SVG to OM, SVG to RCA), HTN, TIA with unstable
 angina who was transferred from ___ after diagnostic 
@@ -4840,7 +4840,7 @@ was found to have elevated troponin-T and sent to ___ for
 further management. 
 
 Pa..."
-29241519,1,67,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath']",":
+29241519,1,73,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath', 'cath_results']",":
 ___ w/ PMH ESRD on HD ___, Th, ___ via L fistula), and known CAD 
 s/p CABG and stent to OM2, AS s/p porcine AVR, who presented to 
 ___ on ___ with crushing mid sternal chest pain and 
@@ -4975,7 +4975,7 @@ ___ with HTN, HLD, CHF, CAD s/p IMI ___ s/p PCI to ___,
 admitted here ___ with UA, trop neg, pMIBI with apical 
 defect, cath with 3v dz (stent to ___ 75% dRCA, no mention 
 of old stent, LAD with __..."
-28794898,1,75,"['direct_procedure', 'procedural_details', 'transfer_for_cath']",":
+28794898,1,81,"['direct_procedure', 'procedural_details', 'transfer_for_cath', 'cath_results']",":
 ___ year old gentleman with a past medical history of CAD s/p 
 CABG in ___ with LIMA to LAD and RIMA to RCA, hyperlipidemia, 
 htn, and smoking. The patient was having symptoms of shortness 
@@ -5080,7 +5080,7 @@ who presents with STEMI.
 
 He was in his usual state of health until day of admission when 
 he experienced chest/back/R CVA pain. Pain ..."
-22191536,0,102,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
+22191536,0,108,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
  ___ yo male with recent h/o NSTEMI ___ found to have 3VD( LAD 
 proximal 80% stenosis LCx 80% proximal stenosis, OM1 had an 80% 
 proximal stenosis, RCA occluded with collaterals filling the 
@@ -5096,7 +5096,7 @@ This is an ___ year-old female with a history of hypertension,
 hyperlipidemia, and CAD s/p distant MI and PCI ___ who presents 
 for evaluation of chest pain. The chest pain occured suddenly at 
 4:4..."
-20923071,0,28,"['direct_procedure', 'procedural_details']",":
+20923071,0,34,"['direct_procedure', 'procedural_details', 'cath_results']",":
  ___ yo female with h/o COPD on home O2, HTN, HLP, DM, 
 osteoporosis, morbid obesity who was recently discharged from 
 ___ s/p drainage of 820 cc of pericardial fluid, NOW presents 
@@ -5111,7 +5111,7 @@ ___ yo male with h/o CAD s/p MI, CABG and PCI in ___, systolic
 CHF 35%,  AAA s/p repair presents with shortness of breath and 
 CP that started this morning.  Patient states that when he woke 
 up th..."
-25407911,1,55,"['direct_procedure', 'post_cath_meds']",":
+25407911,1,61,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 HISTORY OF PRESENTING ILLNESS: Mr. ___ is a ___ M with a 
 history of coronary artery disease s/p CABG in ___, CHF with EF 
 of %, paroxysmal atrial fibrillation not on anticoagulation who 
@@ -5223,7 +5223,7 @@ ___ y/o M with hx of CAD s/p MI and PCI, ESRD on PD, presenting
 with DOE. Pt has been having several weeks of DOE. He had a CP 
 episode about 3 weeks ago and was admitted to ___ for a rule 
 out. He..."
-24641096,0,20,['direct_procedure'],":
+24641096,0,26,"['direct_procedure', 'cath_results']",":
 Ms ___ is an ___ year old woman with hypertension, 
 hyperlipidemia, hypothyroidism, CAD s/p stent in ___, Non 
 Sustained Ventricular tachycardia s/p ICD BiV ICD/pacemaker 
@@ -5282,7 +5282,7 @@ ___ female with hx of factor 5 leiden presenting with
 intermittent chest pain. Pt reports isolated episode of chest 
 pain initially occurred 2 months ago; had workup at that time at 
 OSH with stres..."
-29174728,0,53,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+29174728,0,59,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
  ___ with PMHx of known CAD with multiple interventions (CABG, 
 PCI), HTN, HL, DM p/w substernal pain with burning sensation 
 since 6AM.  
@@ -5308,7 +5308,7 @@ Mr. ___ is a ___ male with a past medical history of
 CAD with recent RCA stenting, IDDM, htn, HLD, CHF Gold Stage II 
 with ventricular tachycardia who is being transferred for VT 
 ablation. He was ..."
-29302632,1,137,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath']",":
+29302632,1,149,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath', 'cath_results']",":
 ___ with PMH GERD, migraines w/o aura, depression presented to 
 ___ ___ with chest pain radiating to left arm. Pt was 
 in usual state of health but experienced non-radiating chest 
@@ -5338,13 +5338,13 @@ ___ with history of systolic CHF (EF 15%), CAD (distant MI, s/p
 CABG and stent placement and ICD for primary prevention) 
 transferred from ___ for management of 
 decompensated heart failure. The pa..."
-21150301,1,105,"['direct_procedure', 'post_cath_meds']",":
+21150301,1,111,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 Patient is a ___ yo M with hx CAD s/p BMS x2 to the LAD ___, CHF 
 (EF ___ who presented with chest pain.
 
 Patient was recently admitted to ___ ___.  At that time, 
 he presented with ___ crushing SSC..."
-22965246,0,60,['direct_procedure'],":
+22965246,0,66,"['direct_procedure', 'cath_results']",":
 ___ with h/o CAD with STEMI s/p BMS x2 to the LAD ___, sCHF (EF 
 ___, LV thrombus and HIT who presents with CP.  
 He was then well until last night when he developed chest pain 
@@ -5405,7 +5405,7 @@ presents s/p Vfib arrest after running a half marathon.
 .
 He is an avid runner and routinely runs long distances. Today, 
 he ran a hal..."
-25942236,0,40,['direct_procedure'],":
+25942236,0,46,"['direct_procedure', 'cath_results']",":
 In brief, this patient is a ___ male with past medical 
 history of DMII, hypertension, hyperlipidema, significant CAD 
 s/p CABGx2 most recently in ___ who presented to ___ 
@@ -5525,7 +5525,7 @@ ___ F with history of HTN, HL, paroxysmal afib (patient does not
 know all the details, but per note of Dr. ___ 
 revealed ___ about one year ago), aortic stenosis, s/p DDD 
 pacemaker/defibrillator _..."
-21908732,1,40,"['direct_procedure', 'post_cath_meds']",":
+21908732,1,46,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 Briefly, ___ hx HTN, HLP presented with 2 days of substernal 
 ___ chest pressure.  2 days prior he experienced chest pressure 
 about 1 hour after eating a sandwhich, which he attributed to 
@@ -5734,7 +5734,7 @@ ___. M with HTN, DLP, DM, prior silent MI initially seen for
 progressively worsening dyspnea on exertion since ___ 
 following the death of his son.  ___ began with mild 
 shortness of breath with cl..."
-22096219,0,40,['direct_procedure'],":
+22096219,0,46,"['direct_procedure', 'cath_results']",":
 ___ yo female w/ hx of CAD status post LAD and RCA stents, LHCath 
 w/ multivessel disease, CHF, HTN, Hyperlipidemia, PVD (s/p 
 fem-fem bypass on L, R iliac stent, iliac stenosis ___ to popl 
@@ -5813,7 +5813,7 @@ ___ years, DM2, HTN, HLD presenting from ___ clinic with
 weakness and lightheadedness.
 
 Patient was in her usual state of health until ..."
-25383289,1,65,"['direct_procedure', 'post_cath_meds']",":
+25383289,1,71,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ with Hx HTN, HLD, CHF, AoCKD, Afib episodes x4, transferred 
 from OSH for cardiac catheterization for severe aortic stenosis. 
  The patient had been experiencing a constellation of symptoms 
@@ -5829,7 +5829,7 @@ vessel CABG x4 at ___. He presented to
 ___ with chest pain. He initially 
 presented to ___ with SOB and chest tightness 
 in ___. TTE at..."
-21051894,1,15,"['direct_procedure', 'post_cath_meds']",":
+21051894,1,21,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ y.o male with pmhx of presented initially to ___ with 
 nausea, vomiting and diarrhea. In the emergency room he 
 developed chest pain and EKG/sided leads revealed ST elevations 
@@ -5854,7 +5854,7 @@ ___ year old man with H/O atrial fibrillation on warfarin,
 hypertension, hyperlipidemia, CKD (baseline Cr 1.3-1.5), CAD s/p 
 CABG x 1 (___-LAD), aortic stenosis now S/P bioprosthetic AVR 
 presentin..."
-22270821,1,50,['direct_procedure'],":
+22270821,1,56,"['direct_procedure', 'cath_results']",":
 Ms. ___ is an ___ year old woman with a history of aortic 
 stenosis followed by serial echocardiograms.  Most recent 
 echocardiogram in ___ demonstrated aortic stenosis with 
@@ -5864,7 +5864,7 @@ ___ year old woman with history of CAD s/p multiple LAD stents,
 type 2 DM, atrial fibrillation (not on warfarin due to GI 
 bleed), OSA on CPAP presented with to ___ with left 
 sided chest pain/pres..."
-22539929,1,82,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath']",":
+22539929,1,88,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath', 'cath_results']",":
 ___ with h/o COPD, ___ s/p lobectomy followed by 
 pneumonectomy, HTN, hypothyroidism, AI, and ___ who initally 
 presented to ___ on ___ with 
@@ -5890,7 +5890,7 @@ ___ with NSTEMI, PNA, and GI bleed.
 .  
 The patient reports acute onset shortness of breath which began 
 last night which has been progr..."
-27665681,1,85,"['direct_procedure', 'post_cath_meds']",":
+27665681,1,91,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ with h/o HTN who presented with chest pain at ___ 
 Baptitist and was transferred immediately to ___ for concern 
 for STEMI, now found to have clean coronaries.  
@@ -5917,7 +5917,7 @@ MR. ___ is a ___ with history of C4 spinal cord injury with
 resulting paraplegia and asthma presenting upon transfer from 
 ___ with concern for STEMI. The patient reports that he awoke 
 this mornin..."
-22969471,1,107,"['direct_procedure', 'transfer_for_cath']",":
+22969471,1,113,"['direct_procedure', 'transfer_for_cath', 'cath_results']",":
 Mrs. ___ is a ___ yo F with CAD s/p CABG (SVG->LAD, 
 SVG->OM, SVG->RCA) in ___, hypertension, hyperlipidemia, aortic 
 stenosis, and cirrhosis secondary to autoimmune hepatitis who 
@@ -5959,7 +5959,7 @@ ___ year old male with a history of asthma and mild sleep apnea
 describes many years of chest discomfort that have progressed in 
 frequency and duration. Currently he has daily episodes of 
 exertio..."
-23950187,1,48,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+23950187,1,54,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 ___ y/o M with history of hypertension, hyperlipidemia, and 
 active smoking who was in his USOH and developed sudden onset of 
 crushing, ""anvil-like,"" substernal, ___ chest pain radiating 
@@ -6012,7 +6012,7 @@ Mrs. ___ is a ___ female with a history of diabetes mellitus
 type two, CAD s/p triple-vessel CABG of unknown anatomy in ___, 
 HTN, HLD, systolic dysfunction with ___, carotid 
 endarterectomy, and r..."
-27883352,0,78,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+27883352,0,84,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 This is a ___ y/o F with h/o HTN and carotid disease s/p R CEA 
 (in ___ who initially presented to OSH with shortness of 
 breath and epigastric burning. This started while patient was 
@@ -6053,7 +6053,7 @@ The patient is a ___ yo M with CAD s/p CABG ___, angio in ___
 showing only patent LIMA-LAD, CHF (EF 30%), PVD, IDDM, 
 Hyperlipidemia, Hepatitis B, renal insufficiency presents with 
 dizziness and w..."
-27099470,1,88,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+27099470,1,94,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 ___ with CAD s/p CABG ___ at ___ (LIMA-LAD, rSVG-Ramus, 
 rSVG-OM2), NIDDM, HTN, HLP, gout, CKD stage II, presented with 
 chest pain since ___ today. He awoke from sleep around ___ 
@@ -6204,7 +6204,7 @@ Mr ___ is a ___ with h/o diabetes, A1c 12%, HLD, HTN, who
 p/w inferior STEMI. He has had a cough recently, and saw his PCP 
 2 days ago. ECG was performed at that time and was without acute 
 abnorma..."
-28666814,1,10,['direct_procedure'],":
+28666814,1,16,"['direct_procedure', 'cath_results']",":
 Mr. ___ is a ___ year old man with a history of atrial 
 fibrillation, hyperlipidemia, and hypertension. In ___, 
 he noted chest pain that lasted for approximately five days. The 
@@ -6532,7 +6532,7 @@ ___ is a ___ year old F with history significant for
 renal failure ___ preeclampsia) s/p failed renal transplant on 
 HD MWF, cirrhosis of unclear etiology ?___ medication effect, 
 with resultant po..."
-21313107,1,120,['direct_procedure'],":
+21313107,1,132,"['direct_procedure', 'cath_results']",":
 ___ male with h/o liver transplant ___, severe OSA, pulmonary 
 hypertension, and progressively worsening dyspnea over the last 
 two weeks, admitted for diuresis after elective cardiac cath 
@@ -6616,7 +6616,7 @@ Mr. ___ is a ___ y.o male with a history of nonischemic
 cardiomyopathy with an ejection fraction of 20% and ICD who 
 presented to ___ with epigastric chest 
 pain and shortness of breath. At ___, he..."
-29836403,1,50,['direct_procedure'],":
+29836403,1,56,"['direct_procedure', 'cath_results']",":
 Patient is a ___ with PMHx of DM, HTN, HLD, and spinal stenosis 
 who presented from PCP office with complaint of DOE and chest 
 tightness.  
@@ -6729,7 +6729,7 @@ ___ year old woman with COPD, asthma, diastolic CHF, pulmonary
 HTN, admitted to ___ on ___ with several weeks of 
 worsening SOB, assoc. with orthopnea, PND, and ___ edema. She 
 denies dietary indis..."
-23360586,1,40,['direct_procedure'],":
+23360586,1,46,"['direct_procedure', 'cath_results']",":
 This is a ___ y/o woman with a PMH significant for MI s/p L 
 ___ s/p CABG ___, ___, critical AS ___ 0.6cm), HTN and 
 HLD who presented to ___ the evening of ___ 
@@ -6835,7 +6835,7 @@ The patient is a ___ yo man with h/o GERD and 3-week history of
 stable angina who presented s/p cardiac catheterization with 
 possible RV perforation.  The patient states that his symptoms 
 began 3..."
-28092693,1,76,"['direct_procedure', 'cath_results']",":
+28092693,1,82,"['direct_procedure', 'cath_results']",":
 ___ year old woman with critical aortic stenosis followed by Dr 
 ___ is now referred for right and left heart catheterization 
 by Dr ___ as part of evaluation for possible intervention.
@@ -6878,7 +6878,7 @@ Ms. ___ is a ___ female with history of HLD, type II
 DM, who initially presented to ___ with 2 day
 history of chest pain, found to have inferior STEMI, underwent
 cardiac catheterization found to hav..."
-29380953,0,101,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
+29380953,0,107,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ is a ___ M with Type II, non-insulin dependent Diabetes 
 Mellitus, HTN and HLD who presented to ___ with chest 
 pain found to have ST segment elevation MI of V4-V6 leads. 
@@ -6936,13 +6936,13 @@ ___ y/o ___ F with h/o PMH of STEMI s/p DES to ___
 LAD and ___ on ___ and OLT ___ a/w 3 days of L 
 shoulder pain. The patient was told to stop taking plavix and 
 aspirin 2 days PTA in preparation f..."
-20260912,1,60,"['direct_procedure', 'post_cath_meds']",":
+20260912,1,66,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 Mr. ___ is a ___ with PMH significant for T2DM presenting with 
 5 days of N/V associated with shoulder/arm pain. 
 
 He was in his usual state of health until 5 days ago when he had 
 an episode of vom..."
-28051387,1,50,"['direct_procedure', 'post_cath_meds']",":
+28051387,1,56,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ woman w hx of HTN presented to ___ with intermittent 
 CP and weakness for 1 week. Pain was severe associated with 
 diaphoresis, radiating to both arms. No association with rest or 
@@ -7047,7 +7047,7 @@ ___ with ischemic cardiomyopathy (EF 20%), CAD s/p CABG, DM2,
 chronic osteomyelitis s/p recent left BKA, CKD stage III, AFib 
 on warfarin, presents with confusion and was found to be in 
 acute hear..."
-28961551,1,32,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath']",":
+28961551,1,38,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath', 'cath_results']",":
 Mr. ___ is a ___ year old man with a history of hypertension, 
 CAD s/p CABGx2 in ___ (LIMA to LAD, SVG to OM), porcine AVR,  
 fem-pop bypass in ___, NIDDM, who was admitted to OSH on ___ 
@@ -7142,7 +7142,7 @@ Mr. ___ is a ___ y/o man with a PMH notable for severe AS
 (undergoing ___ work-up), CAD, HTN, paroxysmal AFib (on 
 amiodarone), CKD (baseline Cr 1.3), metastatic colon cancer (s/p 
 colectomy, adjuv..."
-27791786,1,45,"['direct_procedure', 'post_cath_meds']",":
+27791786,1,51,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ y.o. woman admitted with substernal ___ chest pain since 
 last evening. Patient reports the pain was not associated with 
 nausea or diaphoresis, was non-exertional, was not relieved by 
@@ -7152,7 +7152,7 @@ This is an ___ female with a history of hypertension,
 hyperlipidemia, and a seizure disorder who presented to ___ 
 ___ ED with complaints of shortness of breath that has 
 awakened her that night.  ..."
-27588393,1,50,['direct_procedure'],":
+27588393,1,56,"['direct_procedure', 'cath_results']",":
 ___ female with history of CAD s/p MI in ___, angina, 
 history of stent to LAD in ___, HTN, HL, PVD, AAA s/p repair, 
 CEA, CKD (Cr 2.5), severe pulmonary hypertension, HIT, history 
@@ -7222,7 +7222,7 @@ This is a ___ y.o. female with a complicated past medical history
 notable for COPD, laparoscopic choleycystectomy with course 
 complicated by CVA/TIA, perioperative NSTEMI, and pneumothorax 
 second..."
-26449260,1,67,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath']",":
+26449260,1,73,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath', 'cath_results']",":
 ___ year old male with history of HTN and HLD who experienced 
 chest burning in ___ and underwent a stress test which 
 demonstrated a fixed inferior defect without reversibility, by 
@@ -7316,7 +7316,7 @@ ___ with systolic and diastolic CHF (EF 35-40%), CAD s/p PCI,
 Afib not on warfarin, HLD and Alzheimer's who presents with 
 weight gain and fall at home. Pt was recenty admitted to the 
 cardiology s..."
-28475391,1,48,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+28475391,1,54,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 ___ year old year old male with past medical history of 
 ulcerative colitis who presented to ___ with 
 substernal chest pain during sex at approximately 11pm last 
@@ -7342,7 +7342,7 @@ Mr. ___ is a ___ year old ___ speaking male with h/o 3
 vessel coronary artery disease on cath ___ s/p DES to mid LAD, 
 who presented to ___ ___ 1 month of exertional angina. Pt sent 
 for stress tes..."
-27487879,1,56,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
+27487879,1,62,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 The patient is a ___ with h/o HTN, 2nd degree type II Mobitz s/p 
 pacemaker ___, diastolic CHF, seizure disorder who was 
 transferred from ___ for cardiac catheterization and 
@@ -7572,7 +7572,7 @@ Pt is a ___ yo M with PMHx sig. for hyperlipidemia, GERD and
 tobacco use who presented with an episode of chest pain. Pt 
 reports that he had a 20 minute episode of L-sided chest 
 pressure around 8..."
-21055735,1,36,"['direct_procedure', 'cath_results']",":
+21055735,1,42,"['direct_procedure', 'cath_results']",":
 ___ M PMhx obesity, HTN, HLD presenting with acute chest pain 
 that started 4 days ago. He states that on ___ night, he was 
 resting and watching TV and suddenly had a hot and tingling 
@@ -8127,7 +8127,7 @@ ___ year old man with a h/o 1 vessel CAD, NSTEMI in ___ s/p DES
 to LAD presents with acute chest pain this morning. The recalls 
 being in his usual state of health yesterday when he felt a 
 fleetin..."
-29293164,1,41,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+29293164,1,47,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 ___ yo F with a history of pooly controlled Insulin Dependent 
 Diabetes, Hypertension, Hyperlipidemia, extensive CAD history 
 s/p PCI to RCA (___), s/p PCI to LCx, LAD (___) and s/p CABG x 
@@ -8153,7 +8153,7 @@ Ms. ___ is a ___ y/o woman with PMH of hypertension, hearing
 loss, obesity, and depression who presents to the ED c/o 
 palpitations. The patient was recently admitted to ___ 
 ___ with cough and dys..."
-26802692,1,30,['direct_procedure'],":
+26802692,1,36,"['direct_procedure', 'cath_results']",":
 This is a ___ year old man with a history of alcohol abuse,
 alcoholic pancreatitis, hypertension and diabetes mellitus, who
 was diagnosed with nonischemic systolic heart failure in 
@@ -8214,7 +8214,7 @@ The patient is a ___ male who presented with chest
 discomfort and and a recent abnormal nuclear stress test which 
 revealed inferolateral and anteroseptal filling defects. He was 
 referred to inpat..."
-23127022,0,25,"['direct_procedure', 'post_cath_meds']",":
+23127022,0,31,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ yo M w/ CAD, recent cath 2 weeks ago found multivessel 
 disease with collaterals, with recurrence of chest pain while at 
 rest today.  Previous chest pain was in along the lower sternal 
@@ -8376,7 +8376,7 @@ This is a ___ yo F with history of HTN, hypothyroidism that
 presents to ___ for severe pleuritic chest pain that 
 radiatied to her back.  The pain initially started last night a 
 few hours after di..."
-21224034,1,20,['direct_procedure'],":
+21224034,1,26,"['direct_procedure', 'cath_results']",":
 Ms. ___ is a ___ year old woman with a history of chronic kidney 
 disease, presumed coronary artery disease, diabetes mellitus, 
 hyperlipidemia, hypertension, and mitral regurgitation. She 
@@ -8398,12 +8398,12 @@ ___ with history of chronic systolic heart failure with LVEF of
 20% s/p ICD with inappropriate shocks in the setting of atrial 
 fibrillation, atrial fibrillation on warfarin, HTN, HL, CKD 
 (baselin..."
-29597185,0,20,['direct_procedure'],":
+29597185,0,26,"['direct_procedure', 'cath_results']",":
 Mrs. ___ is a pleasant ___ year old ___ speaking woman 
 with a history of diabetes mellitus, hyperlipidemia, 
 hypertension, and peripheral vascular disease. She has noted 
 chest discomfort with exer..."
-29574750,0,25,"['direct_procedure', 'post_cath_meds']",":
+29574750,0,31,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 Mr. ___ is a ___ y/o gentleman with h/o HTN, HLD, and 
 tobacco abuse who developed right sided substeral chest pain 
 with radiation to the left hand.  Pain began at 5 am on ___ 
@@ -8418,7 +8418,7 @@ ___ w hx of CAD (sp PCI with DES to the LAD in ___, HTN
 presents s/p VF arrest on ___. He has experienced 
 dyspnea on exertion for the past month. He denies CP, 
 palpitations, ___ edema, or previou..."
-27978848,1,70,['direct_procedure'],":
+27978848,1,76,"['direct_procedure', 'cath_results']",":
 ___ with PMH of aortic stenosis, HTN, SSS with bradycardia 
 presents for cardiac cath in the setting of chest discomfort on 
 exertion that began approx 3 months ago. He reports having a 
@@ -8701,7 +8701,7 @@ ___ yo M w/ hx of HTN, obesity, prior ___ tobacco use,
 dyslipidemia (low HDL) presenting with chest pain.  
 The day prior to presentation (___) he was walking the dog 
 with his wife when he experie..."
-24016695,0,80,['direct_procedure'],":
+24016695,0,86,"['direct_procedure', 'cath_results']",":
 ___ yo M smoker with PMH of HTN, HLD who presented to OSH with 
 nausea, burning chest pain and was found to have STEMI. Patient 
 states that he had nausea on his way to shopping mall with his 
@@ -8716,7 +8716,7 @@ ___ yo female with pmh of CAD, leukemia, DM, and CRI who presents
 for hydration prior to a cardiac catheterization scheduled for 
 tomorrow.  Patient had been in her USOH until ___ when she 
 experie..."
-28537619,0,30,['direct_procedure'],":
+28537619,0,36,"['direct_procedure', 'cath_results']",":
 ___ year old female with a new onset of chest pain that radiates 
 to shoulder and left arm. She was referred to Dr. ___ 
 further evaluation and it was decided to proceed with cardiac 
@@ -8763,7 +8763,7 @@ The patient is a ___ year old male with HTN, hyperlipidemia, DM2,
 GERD, CAD s/p LAD stent ___ transferred for intervention on 
 stenosis seen in LAD on dx cath. The patient had recent 
 admission to ..."
-29588178,1,30,"['direct_procedure', 'post_cath_meds']",":
+29588178,1,36,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 Mr. ___ is a ___ year old man with a PMH significant for 
 unilateral kidney, ADHD, and hyperlipidemia who presents with 
 chest pain. He was running up a hill to catch at bus at 3:30 on 
@@ -8808,7 +8808,7 @@ ___ yo M c/ pmhx CAD s/p CABG in ___, s/p PCIs in ___ and on
 ___, hypertension, hyperlipidemia, diabetes, ESRD on 
 hemodialysis, PVD s/p bilateral common iliac artery stenting, 
 s/p overlapping ste..."
-24277472,0,38,"['direct_procedure', 'procedural_details']",":
+24277472,0,44,"['direct_procedure', 'procedural_details', 'cath_results']",":
 ___ presented to ___ on ___ with headache and chest pain. CP 
 was L sided, non-radiating, tightness. HA was frontal without 
 vision changes. SBP >200 on
@@ -8900,12 +8900,12 @@ ___ year old M with HTN and Dyslipidemia who presented today,
 ___, to ___ clinic for chest pain x1 day. Patient reports 
 that at noon on ___, he began experiencing substernal, dull, 
 constant chest..."
-29937184,1,67,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath']",":
+29937184,1,73,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath', 'cath_results']",":
 ___ year old woman presented to ___ chest and 
 intrascapular pain radiating down her left arm that began around 
 11am. She endorses dizzines, diaphoresis and nausea with her 
 pain but denies shortne..."
-20868613,1,35,"['direct_procedure', 'post_cath_meds']",":
+20868613,1,41,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 Ms. ___ is a ___ yrs. old female with a history of diabetes, 
 hypertension, PSVT, presented to BI Miton with complain of chest 
 pressure, loose bowel movement and weakness. Patient states that 
@@ -8967,7 +8967,7 @@ ___ M s/p CABG x4v and left CEA, s/p thalamic stroke ___ with
 severe aortic stenosis planned for TAVR.  He is symptomatic with
 dyspnea on exertion and fatigue. Patient has Class II-III heart
 failure..."
-22808792,1,50,['direct_procedure'],":
+22808792,1,56,"['direct_procedure', 'cath_results']",":
 ___ F with iCMY (LVEF previously ___, AFib on Coumadin, 
 CKD, HTN, DM2 (insulin-dependent), presented to ___ with 
 SOB, now s/p cardiac arrest i/s/o RH cath, transferred to ___ 
@@ -9212,7 +9212,7 @@ OTC omeprazole. The pat..."
 LCx in ___, HTN, PVD s/p common iliac stent, who presents c/o 
 increasing frequency of SSCP, especially with exertion, that has 
 bee..."
-22592226,1,82,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath']",":
+22592226,1,88,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath', 'cath_results']",":
 ___ with PMHx significant for HTN, dyslipidemia and a 
 spontaneous retroperitoneal hematoma of unknown source in ___ 
 presents as a transfer from ___ with a STEMI. He had the 
@@ -9371,7 +9371,7 @@ Mr. ___ is a ___ year man with a history of atrial
 fibrillation, diabetes and hypertension. He has a long-standing 
 history of shortness of breath. Over the past month, he noted 
 progressively wors..."
-28525520,0,10,['direct_procedure'],":
+28525520,0,16,"['direct_procedure', 'cath_results']",":
 Mr. ___ is a very nice ___ year old man with a past medical 
 history of
 Non-Hodgkin's lymphoma s/p chemotherapy (Adriamycin) and mantle 
@@ -9394,12 +9394,12 @@ Mr. ___ is a ___ year old male with a pmh significant for HTN,
 mitral regurgitation complicated by mitral valve prolapse, and 
 GERD who has had increasing DOE over the last year with acute 
 worseni..."
-25595502,1,103,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+25595502,1,109,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 ___ year-old Male with h/o CAD s/p CABG ___ years ago, MI and HTN 
 initially presented with chest pain. Pt has known 3vd, was 
 evaluted by cath for chest pain with a positive stress test in 
 ___. In..."
-25279569,1,20,['direct_procedure'],":
+25279569,1,26,"['direct_procedure', 'cath_results']",":
 ___ with h/o hypertension and hyperlipidemia.  He has had 2 
 episodes of chest pain and SOB in the preceeding 2 weeks. 
 Symptoms come on at rest.  He presented to the ED 3 days ago in 
@@ -9440,7 +9440,7 @@ history of premature coronary artery disease, who presented with
 L arm, shoulder and chest pain.  
 
 Pain initially started at 11:30PM..."
-29840305,0,20,['direct_procedure'],":
+29840305,0,26,"['direct_procedure', 'cath_results']",":
 ___ y/o M with CAD (medical management), smoker, who presents to 
 the ED with worsening chest pain. Patient is homeless and as he 
 was walking last evening, he began having ___ substernal 
@@ -9510,7 +9510,7 @@ ___ yo M w/ Cerebral palsy, mild MR, seizure d/o, sCHF, recent
 echo showed worsening MR, mod pulm HTN, and biventricular 
 dysfunction.  Patient had catheterization today showing diffuse 
 CAD with e..."
-24187876,1,40,"['direct_procedure', 'post_cath_meds']",":
+24187876,1,46,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 This is an ___ yo female with metastatic neuroendocrine tumor on 
 home hospice, h/o CVA, rheumatoid arthritis, diabetes, 
 hypertension, hyperlipidemia who presented to the ___ 
@@ -9573,7 +9573,7 @@ pain.
 
 Patient reports that for the last two weeks he has noticed chest 
 tightness in h..."
-26381088,0,28,"['direct_procedure', 'procedural_details']",":
+26381088,0,34,"['direct_procedure', 'procedural_details', 'cath_results']",":
 ___ with ___ CAD s/p CABG, multiple stents, CVA, HTN, HLD,DM 
 presenting with chief complaint of chest pain.  
  ___ presenting with chest pain. Around 920PM this evening had 
@@ -9652,7 +9652,7 @@ The patient is a ___ male with a history of
 hypertension, hyperlipidemia, non-insulin-dependent diabetes and 
 CAD (mod LAD) without PCI who is here for evaluation of 
 shortness of breath. Reportedl..."
-25976116,1,50,"['direct_procedure', 'post_cath_meds']",":
+25976116,1,56,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 Ms. ___ is a ___ with a history of HTN and HLD who presents 
 with episodes of chest tightness that began yesterday. The first 
 episode was yesterday which began at rest, lasted for 3 hours 
@@ -9698,12 +9698,12 @@ ___ with history of CAD (NSTEMI ___ known 3 vessel CAD, deemed
 not candidate for CABG due to carotid stenoses), type 2 diabetes 
 mellitus, hypertension, hyperlipidemia, systolic heart failure 
 (EF ..."
-26407009,1,60,['direct_procedure'],":
+26407009,1,72,"['direct_procedure', 'cath_results']",":
 ___ yo female with PMH of critical aortic stenosis, CAD (s/p 
 CABG), CKD, DM, HTN who was admitted for planned right and left 
 cardiac cath. Her right heart cath showed normal wedge pressure 
 of ___..."
-20356039,0,30,['direct_procedure'],":
+20356039,0,36,"['direct_procedure', 'cath_results']",":
 ___ year old male with ___ year history of intermittent stable 
 angina with moderate exertion that resolves when ___ slows down. 
 Over the past six months ___ has been walking more but has 
@@ -9754,12 +9754,12 @@ hypothyroidism, schizophrenia, seizure disorder, who presents
 from ___ and Rehab nursing home s/p fall.
 
 Per nursing home, patient fell at 3:30 am..."
-23181475,0,125,"['direct_procedure', 'post_cath_meds']",":
+23181475,0,131,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 HISTORY OF PRESENTING ILLNESS: Ms. ___ is a ___ with hx of 
 CAD s/p CABG ___, HTN who presented to the Emergency department 
 with chest pain.  Per her report, the chest pain started the 
 night befor..."
-20607239,0,20,['direct_procedure'],":
+20607239,0,26,"['direct_procedure', 'cath_results']",":
 ___ year old male with severe aortic stenosis was transferred 
 from ___ for further management of severe 
 aortic stenosis and three vessel disease. He was admitted to 
@@ -9805,7 +9805,7 @@ Mr. ___ is a ___ y/o male with a past medical history of BPH
 who presented to the ED with exertional chest pain. The patient 
 states that he has had chest pain with exertion for the past 
 ___ days ..."
-21091045,1,48,"['direct_procedure', 'procedural_details']",":
+21091045,1,54,"['direct_procedure', 'procedural_details', 'cath_results']",":
 ___ with DM, HTN, dyslipidemia, CAD (IMI ___ RCA stent ___ LCX 
 stents ___ @ ___, ___ @ ___, and ___ @ ___ for 
 instent thrombosis) developed acute chest discomfort which is 
@@ -9925,7 +9925,7 @@ This is an ___ s/p CABG ___ w/ CP that has been intermittent
 for the last several weeks, however it is increasing in 
 frequency today.  
 In the past it has been increased by quick bouts of exertion..."
-29240474,0,118,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+29240474,0,124,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 ___ y/o female with a past medical history of PVD (s/p right 
 proximal iliac, left proximal iliac stent), HTN, COPD, h/o TIA 
 (s/p b/l carotid stents per husband report), h/o left 
@@ -10146,7 +10146,7 @@ catheterization.
 
 Patient is originally from ___, and came to ___ in ___ 
 ..."
-26657339,0,26,"['direct_procedure', 'cath_results']",":
+26657339,0,32,"['direct_procedure', 'cath_results']",":
 Ms. ___ is a ___ year old female who has remained very active 
 over the years and enjoyed walking and yoga. Approximately 6 
 months ago she began to experience shortness of breath and 
@@ -10188,7 +10188,7 @@ ___ yo female with hx of CHF (EF ___, HLD, HTN, DMII who
 presented to OSH with CP and was transferred to ___ for PCI 
 after catheterization found 70% LAD lesion and pt refused CABG. 
 Pt states that..."
-22412241,1,28,"['direct_procedure', 'procedural_details']",":
+22412241,1,34,"['direct_procedure', 'procedural_details', 'cath_results']",":
 ___ yo M w/ PMHx of HTN and hyperlipidemia with exertional chest 
 pain on moderate exercise for past ___ weeks. States that he 
 started having midsternal chest pressure while riding his bike 
@@ -10249,7 +10249,7 @@ ___ yo M admitted from ___ with an NSTEMI. He
 presented to the hospital last night after ~2 months of bloating 
 and constipation. The bloating has been intermittent and 
 unrelated to meals, intermi..."
-23440875,0,26,"['direct_procedure', 'cath_results']",":
+23440875,0,32,"['direct_procedure', 'cath_results']",":
 Patient is a ___ yo woman with a history of critical AS, atrial 
 fibrillation, diastolic heart failure, permanent pacemaker who 
 is being considered for the ___ trial.  Ms. ___ was 
@@ -10277,7 +10277,7 @@ ___ with with ESRD on HD, HTN, DM, and CAD s/p CABG, who
 presented to ___ yesterday with 2-day history 
 of chest pain after a fall onto his left side. His trop I was 
 trended as follows: 37.5 -> 63..."
-26630975,1,90,['direct_procedure'],":
+26630975,1,96,"['direct_procedure', 'cath_results']",":
 This is an ___ year old man with past medical history significant 
 for coronary artery disease with multiple stents to LCx and LAD, 
 diabetes, hypertension, who was admitted two months ago for GI 
@@ -10442,7 +10442,7 @@ Ms. ___ is a ___ year old female with PMHx of CAD, PVD,
 HTN, COPD, DM2 who presents from an outside hospital with 
 significant dyspena. She was initially seen at the OSH on 
 ___ when she developed ..."
-28751589,1,180,"['direct_procedure', 'post_cath_meds']",":
+28751589,1,192,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ HTN, HLD, recent d/c ___ following emergent 4V CABG 
 ___ with LIMA-LAD, SVG-PDA, SVG sequential to Ramus and OM 
 after STEMI (post POBA to RCA) now presents with further chest 
@@ -10558,7 +10558,7 @@ of..."
 of sudden onset chest pain. The chest pain started about one 
 hour prior to arrival while he is walking into his house while 
 carryi..."
-22486255,1,43,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+22486255,1,49,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 Mr. ___ is a ___ year old male with PMH significant for CAD 
 with 2 prior bypass surgeries and 2 PCIs, PAD s/p carotid 
 stenting and per patient b/l ___ bypass, hypertension, 
@@ -10692,7 +10692,7 @@ Mrs. ___ is a ___ year-old woman with past medical history
 of DM, HTN, who presented to OSH with STEMI.  Patient was in 
 USOH until 6:30pm.  At home with husband, was sitting down and 
 started to f..."
-22730532,1,113,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+22730532,1,125,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 Mr. ___ is an ___ year old gentleman with a ___ significant 
 for CAD s/p multiple PCIs most recently in ___, ischemic 
 cardiomyopathy with an LVEF ___, PAF, and CVA transferred 
@@ -10708,7 +10708,7 @@ Patient is a ___ yr old male with PMHx of CAD s/p prior MI and
 stents placed ___ years ago transferred from ___ s/p VF arrest.  
 Patient arrested on ___ while at work driving a fork lift.  
 Fork li..."
-24088784,0,35,"['direct_procedure', 'post_cath_meds']",":
+24088784,0,41,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ w/ hx hypertension, hyperlipidemia, CABG x3 with LIMA to 
 LAD, 
 SVG to OM and SVG to ___ ___, s/p numerous caths with 
@@ -10804,7 +10804,7 @@ ___ with Hx HTN, HLD, chronic diastolic dysfunction presents
 with increasing dyspnea on exertion, ___ edema, and chest 
 heaviness.  She states that she first noticed lower extremity 
 edema in her l..."
-20022560,1,169,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
+20022560,1,175,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 ___ hx T2DM, HTN who presented to OSH with chest pain, found to 
 have ACS and transferred to ___ ED for further mgmt. She is 
 admitted to CCU after cardiac catheterization for close 
@@ -10853,12 +10853,12 @@ Patient is a ___ y.o with no prior cardiac history who presented
 to ___ with chest pain this am radiating to back that began 
 on ___. His pain was rated ___. He also reported 
 occasional DOE over l..."
-24003658,0,20,['direct_procedure'],":
+24003658,0,26,"['direct_procedure', 'cath_results']",":
 Mr. ___ is a ___ yo man with a complex medical history 
 including severe mitral regurgitation, thoracic abdominal 
 aneurysm s/p EVAR, intracranial bleed s/p craniotomy and 
 evacuation in ___, and he..."
-23016209,1,65,"['direct_procedure', 'post_cath_meds']",":
+23016209,1,71,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 Ms. ___ is a ___ woman with a pmhx. significant for 
 coronary artery disease, PMR on prednisone, COPD, asthma, and 
 hypercholesterolemia who is admitted to the CCU in the setting 
@@ -10894,12 +10894,12 @@ PCP: Dr. ___
 Dr. ___ is a ___ year-old man with a history of CAD, s/p 
 angioplasty of 99% LAD lesion in ___, DM2, HTN, HLD, and recent 
 diagnosis of polymyagia rheumatica who presents with che..."
-23051282,0,76,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
+23051282,0,82,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 This is a ___ yo F h/o mitral valve repair with annuloplasty band 
 in ___ c.cath in ___ showing 30% mid-LAD stenosis, 
 hypertension and hyperlipidemia who presented to ___ ED with 
 chest pain. Patie..."
-22389339,1,70,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'transfer_for_cath']",":
+22389339,1,76,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'transfer_for_cath', 'cath_results']",":
 ___ year old man w history of PCI to
 RCA and insulin DM, who presented to ___ with chest pain. A
 subsequent cardiac catheterization revealed multi-vessel 
@@ -10931,7 +10931,7 @@ ___ h/o HTN, IDDM, GERD, ?COPD per pt, p/w three days of
 ""epigastric burning"". No radiation, diaphoresis, nausea or 
 vomiting. Tried maalox without relief. Seen at ___ ___, ECG 
 notable for sub-1 m..."
-27327551,1,60,"['direct_procedure', 'post_cath_meds']",":
+27327551,1,66,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ yo man with h/o hyperlipidemia who presented to OSH with 1 
 hour of chest pain. The patient states that he was in his normal 
 state of health until the day of admission, when he developed 
@@ -11075,7 +11075,7 @@ nitro script that he has not filled), p/w squeezing CP x 12
 hours.
 .
 The patient reports he was in his USOH until this morning whe..."
-24028485,0,50,"['direct_procedure', 'post_cath_meds']",":
+24028485,0,56,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ yo M with PMH significant for HTN, h/o stroke ___ and DVT on 
 coumadin, dementia presents with chest pain.  The patient is a 
 poor historian due to his dementia and thus history of taken 
@@ -11090,12 +11090,12 @@ Mr. ___ is a ___ man with a history of moderate COPD (not
 on home O2), lung cancer treated with surgery ___ years ago, T2DM 
 (diet controlled), HTN, HLD, and tobacco use, who presented to 
 ___ with..."
-23597473,0,37,"['direct_procedure', 'transfer_for_cath']",":
+23597473,0,43,"['direct_procedure', 'transfer_for_cath', 'cath_results']",":
 Mr ___ is a ___ YO M w HTN, HLD, CABG ___ yrs ago (in 
 ___ who went to cardiology clinic for routine stress test 
 and was transferred to ___ for cath given + test. Patient 
 states that he did not ha..."
-24099908,0,36,"['direct_procedure', 'cath_results']",":
+24099908,0,48,"['direct_procedure', 'cath_results']",":
 Ms ___ is a ___ w/hx of recurrent syncope, Afib/Tachy-brady 
 syndrome, DM2, HFpEF w/TR & AS, chronic anemia, hyperthyroidism, 
 p/w syncope. 
@@ -11220,7 +11220,7 @@ then s/p 2 caths this year with patent LIMA, totally..."
 HTN, CRI and PVD s/p bilateral BKAs presented to OSH at 4am 
 with sudden onset of chest pain. Pt c/o midsternal CP radiating 
 to back,..."
-23088635,1,99,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath', 'cath_results']",":
+23088635,1,105,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath', 'cath_results']",":
 ___ gentleman with a PMH significant for myotonic 
 dystrophy type 2, hypertension, and hyperlipidemia presented to 
 OSH with chest pain, found to have STEMI and transferred to 
@@ -11230,7 +11230,7 @@ This is a ___ year old man with H/O remote paroxysmal atrial
 fibrillation, hypertension, hyperlipidemia and CAD presenting 
 with acute onset stabbing chest pain and diffuse chest pressure 
 similar ..."
-22974961,1,75,"['direct_procedure', 'post_cath_meds']",":
+22974961,1,81,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ year old female with a history of DM2, CKD stage 4, 
 hypertension, hyperlipidemia, and ITP who presented to the ED 
 with two days of chest pain, malaise, and generalized weakness. 
@@ -11295,7 +11295,7 @@ presents with approximately 2 months of progressive dyspnea and
 cough.  
 Admitted ___ after 2 weeks shortness of breath and  
 di..."
-22678552,1,53,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+22678552,1,59,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 ___ yo man with CAD s/p IMI with bare metal ___ to RCA ___, 
 ___ to circumflex, PVD, diabetes mellitus, obesity, diastolic 
 heart failure with preserved EF, COPD presenting with chest pain 
@@ -11365,7 +11365,7 @@ This is a ___ year old man with a history of CMP EF 15%, CKD an
 abdominal hernia who presented to his PCP due to one day 
 swelling. His PCP sent him to the emergency room at ___ 
 due to suspicion f..."
-29136833,0,20,['direct_procedure'],":
+29136833,0,26,"['direct_procedure', 'cath_results']",":
 Patient is a ___ year old male with PMH significant for LAD stent 
 at ___ in ___, hypertension, Diabetes Mellitus Type 2 and PVD 
 who has been experiencing epigastric discomfort that is 
@@ -11447,7 +11447,7 @@ ___ y/o gentleman with known CAD, s/p PCI to OM1 (___) and D1
 (___) and PTCA to OM2 and D1 in ___, HTN, dyslipidemia 
 presented with epigastric/lower sternal pain.  Patient was 
 recently seen by hi..."
-20485228,1,30,"['direct_procedure', 'post_cath_meds']",":
+20485228,1,36,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ y/oF with PMH of Turner's syndrome on ___ 
 transferred to the CCU following STEMI s/p DES to LAD.
 .
@@ -11550,7 +11550,7 @@ she felt ""e..."
 transferred from ___ for new onset chest pain and dyspnea 
 on exertion. Earlier this week, patient developed new onset 
 dyspnea on exert..."
-27832025,1,60,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'transfer_for_cath']",":
+27832025,1,66,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'transfer_for_cath', 'cath_results']",":
 Mr. ___ is a ___ gentleman with a history of medically 
 managed CAD (s/p  MI and LAD PTCA in ___ and catheterization in 
 ___ for chest pain revealing diffuse three vessel disease) 
@@ -11699,7 +11699,7 @@ Ms. ___ is a ___ yo woman with history of COPD, HTN, HLD and
 possible CAD who presented to ___ emergency room 
 because of fever, SOB and productive cough. Of note the patient 
 had prior admission i..."
-21848161,1,46,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
+21848161,1,52,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ yo M with HTN began to develop SSCP approximately 8 days ago 
 after shoveling snow, then occuring with and without exertion. 
 Episodes occured more frequently until a particularly severe 
@@ -11739,7 +11739,7 @@ ___ y/o F with hx of ___ transfered from OSH. Pt was admitted
 to OSH on ___ with c/o chest pain. Pt had rise in Troponin and 
 EKG changes with STE and anterolateral Q waves. Pt also 
 diagnoses with..."
-29017807,1,48,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+29017807,1,54,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 ___ yr/M w/ Hx DM, CKD who was transfered from ___ 
 CCU to ___ 3 tonight accepted by Dr. ___ by Dr. 
 ___ who presented to ___ on ___ with chest pain.  
@@ -11750,7 +11750,7 @@ Mr. ___ is a ___ with history of CAD, cryptogenic
 cirrhosis, diabetes, hypertension, hyperlipidemia and chronic 
 anemia and ___ transferred from OSH for NSTEMI. The 
 patient states that his symptom..."
-26671448,1,38,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+26671448,1,44,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 ___ year old gentleman with hypercholesterolemia presented to 
 ___ with substernal chest discomfort. He 
 was in his usual state of health when at 4 ___ he noted 
@@ -11791,7 +11791,7 @@ ___ man w/ sarcoidosis & HTN who presents with SSCP since 2pm.
 Of note, pt was seen in ___ ED on ___ w/ HTN urgency, which 
 was noted incidentally as he was being prepped for an outpatient 
 lung bi..."
-28557427,1,40,['direct_procedure'],":
+28557427,1,46,"['direct_procedure', 'cath_results']",":
 ___ yo M with CAD s/p CABG in ___, ischemic cardiomyopathy EF 
 40-45%, Afib on Coumadin, HTN, MR, TR, bifascicular block 
 transferred from ___ s/p Vtach/Vfib arrest.  
@@ -11807,7 +11807,7 @@ ___ yo F with history of Afib s/p DCCV on pradaxa, aortic valve
 insufficiency, asthma who presents with DOE for a few weeks and 
 chest pain. She presented to outpatient cardiologist and was 
 recomm..."
-22940488,1,95,"['direct_procedure', 'post_cath_meds']",":
+22940488,1,101,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ with history of CAD s/p CABG ___: LIMA-LAD, SVG 
 sequential LCx-OM, SVG-D, SVG-PDA), AS s/p bioprosthetic AVR, 
 HLD, and h/o CVA, who presents with substernal chest pain that 
@@ -12095,7 +12095,7 @@ ___ with hx of MI in ___ medically managed, AFib on coumadin,
 and IDDM2 who was headed to the gym when he felt dizzy in his 
 car. He got out and collapsed and was found by bystander. Denies 
 LOC (a..."
-22324256,1,82,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath']",":
+22324256,1,88,"['direct_procedure', 'post_cath_meds', 'transfer_for_cath', 'cath_results']",":
  ___ with PMH CAD s/p 2V CABG ___ LIMA-LAD, SVG to RCA with 
 known occlusion), NSTEMI ___, s/p ___ ___ x2 (LM 
 to proximal LCX and LIMA-LAD) who p/w recurrent chest pain. 
@@ -12107,7 +12107,7 @@ STEMI (LAD lesion could not be completely opened).  The
 operation
 was successful but she required a balloon pump pre-operatively
 and several days p..."
-24046297,1,30,['direct_procedure'],":
+24046297,1,36,"['direct_procedure', 'cath_results']",":
 Patient is an ___ F with PMH of T2DM, HTN, and AS who initially 
 presented to ___ ___ with syncope & resultant 
 forehead laceration. She was last in her usual state of health 
@@ -12133,7 +12133,7 @@ Patient is ___ year old gentleman with PMH of CAD, CHF, DM, HTN,
 HLD, CKD, bladder cancer s/p TURBT, mitomycin, and BCG in 
 remission, and multiple other comorbidities who presented with 
 shortness..."
-29286315,1,20,['direct_procedure'],":
+29286315,1,26,"['direct_procedure', 'cath_results']",":
 ___ year old female with HTN,HLD,DM and CAD s/p CABG in ___ 
 with LIMA to LAD, SVG to OM1, SVG to diag artery, and SVG to 
 distal RCA who presents with chest heaviness past 3 days, 
@@ -12195,7 +12195,7 @@ Mr. ___ is a ___ male with CAD s/p PTCA LCx
 (___), HLD, AAA, PE, PAD, COPD that was transferred to ___ 
 for c. cath with complicated OSH course consisting of anemia 
 secondary to GIB, bilateral PE ..."
-28427129,1,70,"['direct_procedure', 'post_cath_meds']",":
+28427129,1,76,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 Mr. ___ is ___ year old man with heavy smoking history and 
 chronic pancreatitis but no other cardiac risk factors who was 
 admitted to the CCU with a STEMI. Patient reported left arm pain 
@@ -12220,7 +12220,7 @@ Patient is a ___ male w/ history of hypertension,
 hyperlipidemia, diabetes mellitus who presents with chest pain.  
 He had an episode of CP yesterday, lasting ___ minutes, that 
 resolved on it's ow..."
-28584022,0,45,"['direct_procedure', 'post_cath_meds']",":
+28584022,0,51,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ male w/ history of hypertension, hyperlipidemia, diabetes 
 mellitus who presents with chest pain. Pt was recently admitted 
 to ___ service on ___ for a STEMI with STE in V2-V4. Cath 
@@ -12246,7 +12246,7 @@ ___ w/ CAD s/p 2 stents, clean cath in ___, presented for preop
 eval today prior to eyelid surgery for ptosis. An EKG was 
 performed at the visit, and noted Afib with rate in the 130s. 
 When asked ..."
-22726888,1,40,"['direct_procedure', 'post_cath_meds']",":
+22726888,1,46,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 ___ F with hx of CKD, HTN, hypothyroidism presents with chest 
 pain. Reports acute, all of a sudden, dull substernal chest pain 
 with associated sob that began this morning after waking up. 
@@ -12271,7 +12271,7 @@ Patient is an ___ with hx of CAD s/p CABG (___), ESRD on HD, AAA
 repair, htn, PAF, admitted after being found to be in AF w/ RVR 
 of 120s in PCPs office.  Patient had a recent hospitalization 
 one ..."
-24015047,0,25,"['direct_procedure', 'post_cath_meds']",":
+24015047,0,31,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 Mrs. ___ is a ___ year old woman with a history of 
 uncontrolled hyperlipidemia. She presented to her primary care 
 provider with her first episode of chest pain. She was sent to 
@@ -12319,7 +12319,7 @@ Mr. ___ is a ___ year-old gentleman with history of
 hypertension, hyperlipidemia, and diabetes who presented with 
 lightheadedness. He was shopping with his family in the early 
 afternoon when he b..."
-24192337,0,20,['direct_procedure'],":
+24192337,0,26,"['direct_procedure', 'cath_results']",":
 Mr. ___ is a ___ male with hx of HTN, HLD, CAD, Afib on 
 Warfarin, s/p CABG x 3 (___) and recent ___ in LAD (via 
 LIMA graft), ramus (extending back into LMCA), and OM1, SSS s/p 
@@ -12514,7 +12514,7 @@ ___ year old male with past medical history including diabetes,
 hypertension, hyperlipidemia, CAD status post MI ___ and CABG 
 on ___ (LIMA-LAD, SVG-OM, radial artery-PDA), DES (endeavor) 
 x2 to th..."
-26445120,0,20,['direct_procedure'],":
+26445120,0,26,"['direct_procedure', 'cath_results']",":
 ___ year old male with known coronary artery disease and 
 cardiomyopathy who has been treated medically since his last 
 myocardial infarction in ___. Recently he was admitted for 
@@ -12559,7 +12559,7 @@ Ms. ___ is an ___ yo F with long-standing aortic stenosis,
 HTN, HLD, CAD, DM, and CRI (baseline of 2.8) who was admitted to 
 ___ for  CHF exacerbation and a troponin bump. She originally 
 presented..."
-21836903,0,63,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+21836903,0,69,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 Ms. ___ is a ___ yo woman with a history of HLD and HTN who 
 presented to an OSH after developing chest pain this morning and 
 was transferred to ___ for treatment of a STEMI. 
@@ -12615,7 +12615,7 @@ Patient is a ___ with a PMHx of DM, HTN, HLD, PVD, who
 presented to ___ on ___ with sudden onset shortness of 
 breath at rest. She did not have any chest pain at the time. ___ 
 initial VS were nota..."
-22661142,1,36,"['direct_procedure', 'cath_results']",":
+22661142,1,42,"['direct_procedure', 'cath_results']",":
 Mr. ___ ___ year old man with a history of BPH, gout, 
 hyperlipidemia, and hypertension. He presented to his PCP for an 
 annual physical and noted burning in his throat while exercising 
@@ -12651,7 +12651,7 @@ currently), migraine headaches who was transfer from OSH with
 positive troponin. 
 
 Patient presented to OSH with neck/chest and left a..."
-22775759,1,35,"['direct_procedure', 'post_cath_meds']",":
+22775759,1,41,"['direct_procedure', 'post_cath_meds', 'cath_results']",":
 The patient is a ___ male with a PMH significant for 
 hypertension, dyslipidemia, ischemic cardiomyopathy and coronary 
 artery disease (status-post BMS to RCA in ___ who presented to 
@@ -12661,7 +12661,7 @@ Ms ___ is a ___ yo F w/ PMHx of hodgkins disease s/p total
 body irradiation and now with pulmonary fibrosis and functional 
 asplenia, VTE on anticoagulation, and asthma known to Dr. 
 ___ followed s..."
-23659032,1,108,"['direct_procedure', 'procedural_details']",":
+23659032,1,114,"['direct_procedure', 'procedural_details', 'cath_results']",":
 ___ with h/o CABG in ___ (LIMA-LAD, Venous graft-RCA), post-op 
 afib, c/o 4 days of shortness of breath, weakness. Patient 
 complains of SOB with any exertion, weakness, and 
@@ -12686,7 +12686,7 @@ Mr. ___ is a ___ history of hypertension, smoking, alcohol
 abuse (sober for 8 months per his case ___ nurse), 
 schizophrenia, and paranoia, who presented to OSH with falls and 
 chest pain, found to..."
-27579698,0,20,['direct_procedure'],":
+27579698,0,26,"['direct_procedure', 'cath_results']",":
 ___ with significant PMH of CAD s/p CABG x4 vessels in ___ 
 and T2DM who p/w intermittent exertional chest pain and 
 tightness that resolves with rest. 
@@ -12714,7 +12714,7 @@ CAD, dilated CMY (EF 40-45% ___ presenting with dyspnea,
 abdominal pain and anxiety.
 
 Patient reported shortness of breath and ongoing..."
-22950392,1,48,"['direct_procedure', 'procedural_details', 'post_cath_meds']",":
+22950392,1,54,"['direct_procedure', 'procedural_details', 'post_cath_meds', 'cath_results']",":
 ___ y/o woman with a PMH significant for DM and HTN who was 
 transferred from ___ for STEMI. She states that 
 shortly after awaking at 0800 the morning of admission she 
