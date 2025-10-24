@@ -1,0 +1,6 @@
+Model,ROC-AUC,Accuracy,CATH Recall,CATH Precision
+TF-IDF (LogReg),0.729,0.725,0.545,0.429
+Bio_ClinicalBERT-FT,0.696,0.765,0.318,0.491
+Bio_ClinicalBERT-FT+KG_ECG,0.716,0.77,0.443,0.506
+Bio_ClinicalBERT-FT+KG_TF-IDF,0.711,0.741,0.489,0.448
+Agentic (LLM+KG+Bio_ClinicalBERT),0.69,0.667,0.523,0.354
