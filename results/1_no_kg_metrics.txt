@@ -1,0 +1,40 @@
+=== Summary Metrics (1_no_kg) ===
+ROC-AUC: 0.581
+PR-AUC : 0.363
+Accuracy: 0.696
+
+              precision    recall  f1-score   support
+
+     No CATH       0.70      1.00      0.82       332
+        CATH       0.00      0.00      0.00       145
+
+    accuracy                           0.70       477
+   macro avg       0.35      0.50      0.41       477
+weighted avg       0.48      0.70      0.57       477
+
+
+Confusion Matrix:
+[[332   0]
+ [145   0]]
+
+=== MI-Stratified Results ===
+{
+  "overall": {
+    "auc": 0.5813356875778978,
+    "accuracy": 0.6960167714884696
+  },
+  "mi_patients": {
+    "auc": 0.5838815789473684,
+    "accuracy": 0.32142857142857145,
+    "sensitivity": 0.0,
+    "specificity": 1.0,
+    "missed_cath": 76,
+    "n_samples": 112
+  },
+  "non_mi_patients": {
+    "auc": 0.5112122992557775,
+    "accuracy": 0.810958904109589,
+    "n_samples": 365
+  },
+  "critical_recall": 0.0
+}

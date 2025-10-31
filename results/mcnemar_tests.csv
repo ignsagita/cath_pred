@@ -1,0 +1,7 @@
+Comparison,Chi-square,p-value,Significance,Better Model
+TF-IDF vs Vanilla BERT,4.752,0.0293,*,TF-IDF
+TF-IDF vs Enhanced KG,0.052,0.8197,ns,Enhanced KG
+TF-IDF vs Multi-Agent,94.009,0.0000,***,TF-IDF
+Vanilla BERT vs Enhanced KG,7.280,0.0070,**,Enhanced KG
+Vanilla BERT vs Multi-Agent,37.662,0.0000,***,Vanilla BERT
+Enhanced KG vs Multi-Agent,90.480,0.0000,***,Enhanced KG
