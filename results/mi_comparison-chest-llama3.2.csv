@@ -1,5 +1,0 @@
-Model,MI Samples,ROC-AUC,CATH Recall,Missed CATH
-TF-IDF,45,0.756,0.88,3
-Baseline,45,0.66,0.36,16
-Simple KG,45,0.67,0.64,9
-Enhanced KG,45,0.788,0.64,9
